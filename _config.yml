@@ -78,6 +78,11 @@ theme: maupassant
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/ForJing/blog.git
-  branch: gh-pages
+  type: rsync
+  host: 132.232.17.140
+  user: ubuntu
+  root: /var/www/www.abouttime.cn
+  port: 443
+  delete: true
+  verbose: true
+  ignore_errors: false
