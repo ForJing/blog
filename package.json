@@ -6,7 +6,9 @@
     "version": "3.8.0"
   },
   "scripts": {
-    "d": "hexo clean && hexo deploy"
+    "d": "hexo clean && hexo deploy",
+    "p": "git add . && git commit -m 'update' && git push",
+    "l": "yarn p && yarn d"
   },
   "dependencies": {
     "hexo": "^3.7.0",
