@@ -141,4 +141,4 @@ function createGraph(entry) {
 
 可以看到 `entry` 依赖 `message`, `message` 又依赖 `name`
 
-未完待续
+然后编写一个bundle函数
