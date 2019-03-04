@@ -21,3 +21,7 @@ tags:
 ## 画图
 
 [processon](https://www.processon.com/) 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
+
+## 云服务器
+
+[ZEIT Now](https://zeit.co/now) Severless Platform 一键部署， 支持 node, php, go, react(next.js) 等， 有免费方案
