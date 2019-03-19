@@ -6,8 +6,6 @@ tags:
 toc: true
 ---
 
-# 科学上网（终极解决方案）
-
 ## shadowsocks 服务端配置
 
 ### 一键安装脚本
